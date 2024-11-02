@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekokuuwo.github.io/Jny/sitemap_index.txt
+Sitemap: https://ekokuuwo.github.io/MeY/sitemap_index.txt
+Sitemap: https://ekokuuwo.github.io/ZCf/sitemap_index.txt
+Sitemap: https://ekokuuwo.github.io/cUO/sitemap_index.txt
